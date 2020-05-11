@@ -13,7 +13,7 @@ expo install expo-music-info
 Use this module to retrieve audio metadata from file URI.
 
 ```
-Music.getMusicInfoAsync(fileUri, options);
+MusicInfo.getMusicInfoAsync(fileUri, options);
 ```
 
 Example:
