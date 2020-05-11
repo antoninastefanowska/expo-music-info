@@ -1,33 +1,30 @@
 {
-    "name": "expo-music-info",
-    "version": "1.0.0",
-    "description": "Expo-compatible React Native audio metadata extractor.",
-    "main": "index.js",
-    "types": "index.d.ts",
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:antoninastefanowska/expo-music-info.git"
-    },
-    "dependencies": {
-        "base-64": "^0.1.0",
-        "expo-file-system": "~8.1.0"
-    },
-    "keywords": [
-        "react-native",
-        "expo",
-        "id3",
-        "audio",
-        "metadata",
-        "music",
-        "info"
-    ],
-    "author": "Antonina Stefanowska <antonina.stefanowska@gmail.com>",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/antoninastefanowska/expo-music-info/issues"
-    },
-    "homepage": "https://github.com/antoninastefanowska/expo-music-info",
-    "publishConfig": { 
-        "registry": "https://npm.pkg.github.com/" 
-    } 
+  "name": "expo-music-info",
+  "version": "1.0.0",
+  "description": "Expo-compatible React Native audio metadata extractor.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/antoninastefanowska/expo-music-info.git"
+  },
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "expo-file-system": "~8.1.0"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "id3",
+    "audio",
+    "metadata",
+    "music",
+    "info"
+  ],
+  "author": "Antonina Stefanowska <antonina.stefanowska@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antoninastefanowska/expo-music-info/issues"
+  },
+  "homepage": "https://github.com/antoninastefanowska/expo-music-info"
 }
