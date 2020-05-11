@@ -33,7 +33,7 @@ let metadata = await MusicInfo.getMusicInfoAsync('file:///storage/emulated/0/Mus
 Result:
 ```
 MusicInfo {
-  "title": "Far from love"
+  "title": "Far from love",
   "album": "Missquerada",
   "artist": "Missquerada",
   "picture": Object {
