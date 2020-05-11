@@ -1,6 +1,6 @@
 {
   "name": "expo-music-info",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Expo-compatible React Native audio metadata extractor.",
   "main": "index.js",
   "types": "index.d.ts",
